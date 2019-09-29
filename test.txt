@@ -1,5 +1,4 @@
-<span id="a">kaskrex@tanpeisi</span>:<span id="b">~</span><span id="c">$</span> cat tanpeisi.txt<br><br><br>Hi, I'm Pei Si!<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I've recently graduated from Nanyang Polytechnic's Cybersecurity and Forensics course in May 2019, and I'm currently working at Google as a Data Centre Technician.</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
-
+<span id="a">kaskrex@tanpeisi</span>:<span id="b">~</span><span id="c">$</span> cat tanpeisi.txt<br><br><br>Hi, I'm Pei Si!<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I've recently graduated from Nanyang Polytechnic's Cybersecurity and Forensics course in May 2019, and I'm currently working at Google as a Data Centre Technician.</p><!--qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
 My strong interest in hardware led me to do my Final Year Project in the School of Engineering instead of the usual School of Information Systems, where I created a Smart Luggage Tag system. <!-- woahmuchlagveryfunheyyouarehere -->Be sure to check my project out <a href="https://github.com/kaskrex/FYP">here</a>! 
 
 <!-- hellohellocomesayhiplease -->In my spare time, I enjoy playing CTFs and hackathons with my friends, building PCB boards and developing mobile applications; particularly iOS applications.  <!-- loadinginitialising -->
